@@ -1,8 +1,9 @@
 # **learn from failure**
+git 
 ![](https://www.mindsetworks.com/Assets/images/science/the-science/fixed-mixed-growth-arrow.png)
        
 ## **By:**
-
+## this is from git commands 
 # **Growth Mindset**
 ##It something that we have to learn how to deal with it since the childhood
 
